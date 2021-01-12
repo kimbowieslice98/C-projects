@@ -4,7 +4,9 @@
 
 ## General info
 > List: The program was focused on working with list techniques and how to manipulate them.
+
 > Fraction: The function of the program was to calculate fraction equations using the techniques: constant and mod member functions, fractions rules, objects, etc.
+
 > Bag: This program was meant to help us practice removing, adding, and displaying numbers.
 
 ## Technologies
